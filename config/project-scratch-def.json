@@ -2,6 +2,7 @@
   "orgName": "privacyCenter",
   "adminEmail": "sfdx@mailinator.com",
   "edition": "Developer",
+  "features": ["DSARPORTABILITY"],
   "settings": {
     "communitiesSettings": {
       "enableNetworksEnabled": false
