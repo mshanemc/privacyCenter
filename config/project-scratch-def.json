@@ -4,6 +4,9 @@
   "edition": "Developer",
   "features": ["DSARPORTABILITY"],
   "settings": {
+    "apexSettings": {
+      "enableNonCertifiedApexMdCrud": true
+    },
     "communitiesSettings": {
       "enableNetworksEnabled": false
     },
