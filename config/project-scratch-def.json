@@ -1,5 +1,25 @@
 {
   "orgName": "privacyCenter",
   "adminEmail": "sfdx@mailinator.com",
-  "snapshot": "portability"
+  "edition": "Developer",
+  "features": ["DSARPORTABILITY"],
+  "settings": {
+    "communitiesSettings": {
+      "enableNetworksEnabled": false
+    },
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "pathAssistantSettings": {
+      "pathAssistantEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "securitySettings": {
+      "passwordPolicies": {
+        "enableSetPasswordInApi": true
+      }
+    }
+  }
 }
